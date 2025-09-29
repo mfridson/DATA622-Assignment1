@@ -540,5 +540,5 @@ print(f"""
 📝 Ready for production implementation
 """)
 
-print("GitHub Repository: [Add your GitHub URL here]")
+print("GitHub Repository: https://github.com/mfridson/DATA622-Assignment1")
 print("=" * 80)
